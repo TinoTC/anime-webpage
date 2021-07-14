@@ -1,0 +1,61 @@
+body {
+    background-color:thistle;
+}
+
+#profilePic {
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+
+    border-radius:50%;
+    border-style:solid;
+    border-color:black;
+    border-width:5px;
+}
+
+h1 {
+    text-align:center;
+    text-decoration-line:underline;
+}
+
+#levi {
+    text-decoration-line: underline;
+    font-size:x-large;
+    margin-left:8%;
+}
+
+#eren {
+    margin-left:25%;
+}
+
+#mikasa {
+    margin-left:30%;
+}
+
+.mp4Vid {
+    position:absolute;
+}
+
+#message {
+    font-size:400%;
+    position:relative;
+    margin-top:25%;
+    margin-left:21%;
+    color:white;
+}
+
+img {
+    margin-left:1%;
+}
+
+#inspiring {
+    text-align:center;
+    background-color:red;
+    opacity:0;
+}
+
+button {
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+}
